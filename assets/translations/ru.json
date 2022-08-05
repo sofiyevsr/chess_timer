@@ -1,0 +1,53 @@
+{
+  "time": {
+    "with_hour": "{hours} час {minutes} мин {seconds} с",
+    "with_minutes": "{minutes} мин {seconds} с",
+    "with_seconds": "{seconds} с"
+  },
+  "shorts": {
+    "hour": "час",
+    "minute": "мин",
+    "second": "с"
+  },
+  "chess": {
+    "white": "Белый",
+    "black": "Черный",
+    "increment": "Добавление"
+  },
+  "common": {
+    "add_new_template": "Добавить новый шаблон",
+    "cannot_launch_url": "Невозможно запустить URL",
+    "are_you_sure": "Вы уверены?",
+    "start": "Начать",
+    "cancel": "Отмена",
+    "delete": "Удалить",
+    "move": "Ход: {move}",
+    "submit": "Отправить",
+    "confirm": "Подтвердить",
+    "choose": "Выбрать"
+  },
+  "settings": {
+    "language": "Язык",
+    "about": "О приложении",
+    "language_select": "Выберите язык",
+    "title": "Настройки",
+    "theme": "Тема",
+    "theme_variants": {
+      "dark": "Ночной режим",
+      "light": "Легкий режим",
+      "system": "Система"
+    },
+    "about_fields": {
+      "name": "Имя",
+      "version": "Версия"
+    }
+  },
+  "form": {
+    "title": "Введите название",
+    "title_required": "Требуется название",
+    "title_min2": "Название должен быть минимум 2 символа",
+    "title_max25": "Название должен быть не менее 25 символов",
+    "duration_required": "Требуется продолжительность",
+    "duration_min1": "Продолжительность должна быть не менее 1 секунды"
+  }
+}

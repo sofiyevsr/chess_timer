@@ -1,0 +1,53 @@
+{
+  "time": {
+    "with_hour": "{hours} hr {minutes} min {seconds} s",
+    "with_minutes": "{minutes} min {seconds} s",
+    "with_seconds": "{seconds} s"
+  },
+  "shorts": {
+    "hour": "hr",
+    "minute": "min",
+    "second": "s"
+  },
+  "chess": {
+    "white": "White",
+    "black": "Black",
+    "increment": "Increment"
+  },
+  "common": {
+    "add_new_template": "Add new template",
+    "cannot_launch_url": "Cannot launch url",
+    "are_you_sure": "Are you sure?",
+    "start": "Start",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "move": "Move: {move}",
+    "submit": "Submit",
+    "confirm": "Confirm",
+    "choose": "Choose"
+  },
+  "settings": {
+    "language": "Language",
+    "about": "About app",
+    "language_select": "Choose language",
+    "title": "Settings",
+    "theme": "Theme",
+    "theme_variants": {
+      "dark": "Night mode",
+      "light": "Light mode",
+      "system": "System"
+    },
+    "about_fields": {
+      "name": "Name",
+      "version": "Version"
+    }
+  },
+  "form": {
+    "title": "Enter title",
+    "title_required": "Title required",
+    "title_min2": "Title should be minimum 2 characters",
+    "title_max25": "Title should be minimum 25 characters",
+    "duration_required": "Duration required",
+    "duration_min1": "Duration should be minimum 1 second"
+  }
+}

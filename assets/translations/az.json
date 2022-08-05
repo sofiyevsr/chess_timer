@@ -1,0 +1,53 @@
+{
+  "time": {
+    "with_hour": "{hours} saat {minutes} dəq {seconds} san",
+    "with_minutes": "{minutes} dəq {seconds} san",
+    "with_seconds": "{seconds} san"
+  },
+  "shorts": {
+    "hour": "saat",
+    "minute": "dəq",
+    "second": "san"
+  },
+  "chess": {
+    "white": "Ağ",
+    "black": "Qara",
+    "increment": "Artım"
+  },
+  "common": {
+    "add_new_template": "Yeni növ yarat",
+    "cannot_launch_url": "URL açmaq mümkün olmadı",
+    "are_you_sure": "Əminsiniz?",
+    "start": "Başla",
+    "cancel": "Ləğv et",
+    "delete": "Sil",
+    "move": "Gediş: {move}",
+    "submit": "Təsdiqlə",
+    "confirm": "Təsdiqlə",
+    "choose": "Seç"
+  },
+  "settings": {
+    "language": "Dil",
+    "about": "Tətbiq haqqında",
+    "language_select": "Dil seç",
+    "title": "Ayarlar",
+    "theme": "Görünüş",
+    "theme_variants": {
+      "dark": "Gecə modu",
+      "light": "Gündüz modu",
+      "system": "Sistem modu"
+    },
+    "about_fields": {
+      "name": "Ad",
+      "version": "Versiya"
+    }
+  },
+  "form": {
+    "title": "Ad daxil edin",
+    "title_required": "Ad daxil edin",
+    "title_min2": "Ad ən az 2 simvol olmalıdır",
+    "title_max25": "Ad ən çox 25 simvol ola bilər",
+    "duration_required": "Vaxt daxil edin",
+    "duration_min1": "Vaxt ən az 1 saniyə olmalıdır"
+  }
+}
